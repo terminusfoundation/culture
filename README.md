@@ -25,10 +25,26 @@ All concepts and principles must fulfill the following requirements:
 
 A theory is a good theory if it satisfies two requirements: It must accurately describe a large class of observations on the basis of a model that contains only a few arbitrary elements, and it must make definite predictions about the results of future observations. [Stephen Hawking]
 
+## Human nature
+
+- kindness - differs from culture to culture
+- hospitality - almost universal, differs wildly from culture to culture, nation to nation
+- tolerance - not universal, completely absent in some cultures
+- fairness - not universal, understanding differs wildely from culture to culture
+- censorship
+- equal rights (m/f, minotiries, by age, etc.)
+
 
 ## Application
 
 ### Economy
+
+#### Previous/current
+
+- exchange of goods
+- monetary systems
+
+#### Next
 
 - meritocracy
 - innovation and creativity
@@ -38,4 +54,5 @@ A theory is a good theory if it satisfies two requirements: It must accurately d
 
 ### Foreign policy
 
+### 
 
