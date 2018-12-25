@@ -33,6 +33,9 @@ A theory is a good theory if it satisfies two requirements: It must accurately d
 - fairness - not universal, understanding differs wildely from culture to culture
 - censorship
 - equal rights (m/f, minotiries, by age, etc.)
+- hatred (towards an internal or external group)
+- ignorance (i.e. western medicine considered dark magic in underdeveloped regions, all people of the world share a common believe in freedom, education and kindness in overdeveloped regions)
+- gratitude - sense varies wildly
 
 
 ## Application
